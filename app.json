@@ -3,7 +3,7 @@
     "name": "buoi4-shopping-app",
     "slug": "buoi4-shopping-app",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/images/icon.png",
     "scheme": "buoi4shoppingapp",
     "userInterfaceStyle": "automatic",
